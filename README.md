@@ -13,12 +13,25 @@
 </div>
 
 <div>
-  <h4>👩‍💻 About Me</h4>
-  <p>I am a <strong>Passionate Front-End Developer</strong> with 2 years of experience specializing in developing and optimizing e-commerce platforms. My passion lies in helping companies boost transactions and enhance user satisfaction through innovative web and mobile solutions.</p>
-  <br>
-  <h4>🙋‍♀️ What Excites Me</h4>
-  <p>I'm particularly enthusiastic about opportunities where I can leverage my skills in <strong>JavaScript</strong> and <strong>React Native</strong> to create impactful, user-centric web applications. I thrive in roles that challenge me to innovate and collaborate within dynamic teams.</p>
+  <h4>💻 Passionate Frontend Developer | React & CSS Enthusiast | Problem Solver</h4>
+<p>
+I’m a Frontend Developer with a strong foundation in HTML, CSS, JavaScript and modern frameworks like React and Vue.js. With hands-on experience in SASS, Tailwind CSS, Bootstrap, Material UI, and Quasar, I focus on building seamless, user-centric web applications that deliver both functionality and aesthetic appeal.
 
+I thrive in environments where I can collaborate with dynamic teams to create solutions that are both technically sound and intuitive for users. I’m especially passionate about crafting clean, efficient code and leveraging my deep knowledge of CSS to create visually engaging, responsive interfaces. React is my framework of choice, and I’m always honing my skills to stay ahead of the curve.
+</p>
+
+<h4>🌟 Key Highlights:</h4>
+<ul>
+
+<li> React-based component development and state management experience (using Redux and Context API)</li>
+<li> Cross-browser and responsive design optimization, ensuring consistent user experiences across various devices using mobile-first approaches</li>
+<li> Proficient in styling with SASS, Tailwind CSS, and Material UI to create efficient, maintainable, and scalable designs</li>
+<li> Strong experience with version control using Git and collaborating through GitHub/GitLab</li>
+<li> Passionate about the intersection of design and development, with familiarity in tools like Figma and Adobe XD for collaboration.</li>
+</ul>
+<p> I’m always excited about new challenges and learning opportunities that allow me to innovate and expand my skill set. If you’re looking for a passionate Frontend Developer with a focus on creating impactful, user-friendly web applications, Let's connect!
+👋 Feel free to reach out for collaboration, advice, or just to chat about frontend development!</p>
+  <br>
   </div>
 
 
