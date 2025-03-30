@@ -29,9 +29,9 @@ I thrive in environments where I can collaborate with dynamic teams to create so
 <li> Strong experience with version control using Git and collaborating through GitHub/GitLab</li>
 <li> Passionate about the intersection of design and development, with familiarity in tools like Figma and Adobe XD for collaboration.</li>
 </ul>
-<p> I’m always excited about new challenges and learning opportunities that allow me to innovate and expand my skill set. If you’re looking for a passionate Frontend Developer with a focus on creating impactful, user-friendly web applications, Let's connect!
+<p> I’m always excited about new challenges and learning opportunities that allow me to innovate and expand my skill set. If you’re looking for a passionate Frontend Developer with a focus on creating impactful, user-friendly web applications, Let's connect!  <br>  <br>
 👋 Feel free to reach out for collaboration, advice, or just to chat about frontend development!</p>
-  <br>
+
   </div>
 
 
